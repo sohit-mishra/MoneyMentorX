@@ -17,7 +17,7 @@ MoneyMentorXBot is a Telegram bot built with Node.js and Telegraf to assist user
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/MoneyMentorXBot.git
+   git clone https://github.com/sohit-mishra/MoneyMentorXBot.git
    ```
 
 2. Navigate to the project directory:
